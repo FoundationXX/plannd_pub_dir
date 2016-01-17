@@ -1,6 +1,6 @@
 # plannd_pub_dir
 This project was based on some templates my teammates had worked on before I joined.
-In this rep, it lists the files front end files that introduces our project, teammembers, etc
+In this rep, it lists the files front end files that introduces our project, team members, etc
 
 On our live website, it is linked to our mailchimp & shopify account
 
