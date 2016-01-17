@@ -1,0 +1,353 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Plannd: Innovative date ideas at your fingertips</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom CSS -->
+    <link href="css/agency.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->       
+            <!--top logo-->
+            
+            <div style="min-width:1000px; position: relative;">
+            	<a href="#page-top"><img src="img/logo_top.png" style="width:15%; min-width:130px; position:absolute; top:7px; left:10px;"></a>
+            	<a href="https://www.facebook.com/planndit?ref=aymt_homepage_panel" target="_blank"><img src="img/facebook.png" style="width:3%; position:absolute; top:7px; left:15%;"></a>         
+            	<a href="https://twitter.com/planndit" target="_blank"><img src="img/twitter.png" style="width:3%; position:absolute; top:7px; left:18%;"></a>
+            	<a href="https://instagram.com/plannd" target="_blank"><img src="img/instagram.png" style="width:3%; position:absolute; top:7px; left:21%;"></a>
+            <!--	<a href="#" target="_blank"><img src="img/youtube.png" style="width:3%; position:absolute; top:7px; left:24%;"></a>   -->
+            </div>
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#story">Our Story</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#team">Team</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#join">Join</a>
+                    </li>
+                    
+                    <li>
+                        <a class="page-scroll" href="http://plannd.myshopify.com/">Our Store</a>
+                    </li>               
+                    
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+    
+    <!-- Navigation end-->
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in">Plannd provides you with fun and original date ideas every week, for free. </div>
+                <a href="#join" class="page-scroll btn btn-xl">JOIN TODAY</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- about Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">About</h2>
+                    <h3 class="section-subheading text-muted">What is plannd?</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-thumbs-o-up fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Convenient</h4>
+                    <p class="text-muted">Our service ensures that all your dating related headaches go away. Not only do we provide you with the idea but with a few additional clicks you will receive a fully informational pdf that tells you exactly how to execute the date. Forget about rummaging through google or yelp, our pdf is all you need!</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-clock-o fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Time saving</h4>
+                    <p class="text-muted">If it’s important to you to try new things, you don’t have to spend your already scarce free time to discover new places to go or things to do. We got you covered.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-lightbulb-o fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Creative</h4>
+                    <p class="text-muted">There is no limit to the dates we might think up for you. We will set up a quiet dinner at a nice restaurant if that’s what you want; but we will also send you running around the city on scavenger hunts, or have you volunteer at a local nonprofit together, or anything that you and your partner might enjoy.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- story Section -->
+    <section id="story">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Our Story</h2>
+                    <p class="text-muted" style="font-size:20px;">Whilst in the depths of some horrendous coursework 3 Macalester College students decided to revolutionize how dating takes place. Thus, after many sweat filled hours <span style="text-transform:uppercase; font-weight: bold;">plannd</span> was forged. Our goal is not to help you find a partner but rather for you to have new experiences with your current one. We solve the problem of what to do for date night. We use our magic formula to come up with creative date ideas like a <a href="http://plannd.myshopify.com/collections/frontpage/products/desert-crawl">desert crawl</a>, not only that we plan out the date for you; from where to park or where to get. Not only that we are hilarious (at least thats what we think) and we are super easy to work with. So give us a try and let us know if we make good of our claims.</p>
+                </div>
+            </div>           
+    </section>
+    
+    
+    
+    
+    <!-- Team Section -->
+    <section id="team" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Our Team</h2>
+                    <h3 class="section-subheading text-muted">Meet the crew behind all this</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/1.png" class="img-responsive img-circle" alt="">
+                        <h4>Nichil Kantelal</h4>
+                        <p class="text-muted">Marketing and Finance</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/2.png" class="img-responsive img-circle" alt="">
+                        <h4>Onur Ünal</h4>
+                        <p class="text-muted">Product Development</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/liu.png" style="width:168px; height:177px;" class="img-responsive img-circle" alt="">
+                        <h4>Liang Liu</h4>
+                        <p class="text-muted">Head Developer</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="https://twitter.com/subtleword?lang=en"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="https://www.facebook.com/liu.liang.31?fref=ts"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="https://www.linkedin.com/pub/liang-liu/35/89/775"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Contact Section -->
+    
+    
+    <section id="join">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Join Us</h2>
+                    <div class="indicates-required" id="star-reminder" style = "color:#fff;"><span style = "color: #c60; font-size: 200%;">*</span> indicates required</div>
+                    <!--     test holder               -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12" id ="form-container">
+                
+<!--form content starts here-->               
+<!-- Begin MailChimp Signup Form -->
+
+		<form action="//plannd.us11.list-manage.com/subscribe/post-json?u=7c49714440eba150e7f84b28a&amp;id=c5dda2a9b6" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			<div id="mc_embed_signup_scroll" class="form-group">
+	
+				
+
+				<input type="email" value="" name="EMAIL" placeholder="Your Email Address *" class="form-control required email" id="mce-EMAIL">	
+	
+				<input type="text" value="" name="FNAME" Placeholder="First Name" class="form-control" id="mce-FNAME">
+	
+				<input type="text" value="" name="LNAME" placeholder="Last Name" class="form-control" id="mce-LNAME">
+
+				   <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+ 				<div style="position: absolute; left: -5000px;"><input type="text" name="b_7c49714440eba150e7f84b28a_c5dda2a9b6" tabindex="-1" value=""></div>
+				<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-xl"></div>
+			</div>
+		</form>
+		</div> <!---end of form container-->
+		<div id="mce-response" class="clear col-lg-12 text-center"></div> 
+		<div class="col-lg-12 text-center"><h3 class="section-subheading text-muted">For further questions, email us at: plannd@plannd.it</h3></div>
+		
+              
+              
+          </div>
+
+<!--End mc_embed_signup-->
+                    
+<!--form content ends here-->                
+        </div> <!--end of container-->
+    </section> <!--end of current section-->
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                </div>
+                <div class="col-md-4">
+                  <span class="copyright">Plannd 2015<br>All rights reserved</span>
+                </div>
+                <div class="col-md-4">
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+   <!-- <script src="js/contact_me.js"></script>-->
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/agency.js"></script>
+    
+  <!--Testing stage scripts for subscription response======start here--> 
+  <!--   DOES NOT WORK because of the same origin policy, even JSONP only supports get request, but not post request
+         btu why does form submit work????-->
+<script>
+  $(document).ready(function () {
+  $('#mc-embedded-subscribe-form').submit(function(event) {
+    if(event) event.preventDefault();
+    subscribe($('#mc-embedded-subscribe-form'));
+});
+    
+   function subscribe(form) {
+  $.ajax({
+    type: form.attr('method'),
+    url: form.attr('action'),
+    data: form.serialize(),
+    cache       : false,
+    dataType    : 'jsonp',
+    jsonp: "c",
+    contentType: "application/json; charset=utf-8",
+    error       : function(err) { 
+     // Although according to jquery docs, this is never called for cross-domain JSONP requests, the following is just for precaution
+    $('#mce-error-response').html('<span class="alert">Could not connect to server. Please try again later.</span>');},
+    success     : function(data) { 
+      $('#mce-response').css({"color": "#fff", "font-size": "200%"});
+      console.log("data is: " + JSON.stringify(data));
+      if (data.result != "success") {
+      	
+      	console.log('data.msg is: '+ data.msg);
+      	if (~((data.msg).indexOf('subscribe'))){
+      		var message = data.msg;
+      	}      	
+      	else{
+        	var message =(data.msg==='0'?data.msg:"Sorry, something was not right. Did you fill in your email address correctly?");
+        }
+        console.log("something is wrong: "+ message);
+        $('#mce-response').html(message);        
+       } 
+ 
+      else {
+        $('#form-container').css("display","none");
+        $('#star-reminder').css("display","none");
+        var message = data.msg;
+        console.log("sucess: " + message);
+        $('#mce-response').html('<span style="color:#DE5452;">Thank you for subscribing!</span>'+'<br><span class="success">' + message + '<br><span style="color:#DE5452;">Wish you a day of romance!</span></span>');
+      }
+    }
+  });
+  }
+  });
+  <!--All Rights Reserved, author>>>>Liang Liu-->
+  </script>  
+ 
+  <!--scripts for subscription response======end here-->   
+</body>
+
+</html>
+
+<!--All Rights Reserved, author>>>>Liang Liu-->
